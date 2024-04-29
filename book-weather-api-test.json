@@ -20,16 +20,16 @@
                   "properties": {
                     "id": {
                       "type": "integer",
-                      "example": 4
+                      "example": 1
                     },
                     "name": {
                       "type": "string",
-                      "example": "sada"
+                      "example": "John Doe"
                     },
                     "email": {
                       "type": "string",
                       "format": "email",
-                      "example": "sada@example.com"
+                      "example": "john@example.com"
                     }
                   }
                 }
